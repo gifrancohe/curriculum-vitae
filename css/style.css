@@ -1,0 +1,77 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
+
+#wrappper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px;
+}
+
+/* Style to HEADER */
+header div.content-logo {
+    display: flex;
+    justify-content: center;
+}
+
+header div.content-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header div.personal-information {
+    width: 30%;
+}
+
+header div.personal-information > div{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: black;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    border-radius: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20pt;
+}
+
+/* End style to header */
+
+article {
+    display: flex;
+    justify-content: center;
+}
+
+article.personal-information {
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    height: 90px;
+    background: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    font-size: 25pt;   
+}
+
+i.fab {
+    color: #fff;
+}
