@@ -1,4 +1,4 @@
-# curriculum-vitae
+# Hoja de vida
 Proyecto del curso de fundamentos de HTML dictado por Nextu, en el cual se estudian los fundamentos de HTML. Con el objetivo
 de practicar lo aprendido se realiza una hoja de vida digital, buscando utilizar los conceptos vistos en el curso.
 
